@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <!-- Spanish -->
+  <variables lang="cn">
+    <tilesViewName>描述</tilesViewName>
+    <iconsViewName>图标</iconsViewName>
+    <basicGridName>盒子</basicGridName>
+    <carouselViewName>旋转木马</carouselViewName>
+    <gameCarouselViewName>Carrusel de juegos</gameCarouselViewName>
+    <blue>蓝色</blue>
+    <red>红色</red>
+    <green>绿色</green>
+    <cyan>青色</cyan>
+    <yellow>黄色</yellow>
+    <violet>紫罗兰</violet>
+    <orange>橙色</orange>
+    <gray>灰色</gray>
+    <none>无</none>
+    <roundBorderSubsetName>圆形边框</roundBorderSubsetName>
+    <blinkBorderSubsetName>边缘闪烁</blinkBorderSubsetName>
+    <yes>确定</yes>
+    <no>否</no>
+    <marquee>marquesina</marquee>
+    <image>图像</image>
+    <text>文本</text>
+    <thumbnail>缩略图</thumbnail>
+    <systemBackgroundName>背景</systemBackgroundName>
+    <systemViewName>系统可视化</systemViewName>
+    <systemview.darkened>黑暗的</systemview.darkened>
+    <systemview.horizontal>水平</systemview.horizontal>
+    <systemview.legacy>古老的</systemview.legacy>
+    <systemview.transparent>透明</systemview.transparent>
+    <systemview.simple>简单</systemview.simple>
+    <systemview.vertical>垂直</systemview.vertical>
+    <systemview.wheel>轮</systemview.wheel>
+    <previewBarSubsetName>显示面板</previewBarSubsetName>
+    <videoboxesSubsetName>在盒子模式下显示视频</videoboxesSubsetName>
+    <zoomboxesSubsetName>缩放</zoomboxesSubsetName>
+    <orientationSubsetName>方向</orientationSubsetName>
+    <videosSubsetName>视频</videosSubsetName>
+    <logosSubsetName>标志</logosSubsetName>
+    <hideselectionSubsetName>隐藏选择</hideselectionSubsetName>
+    <optimizesmallscreensSubsetName>小屏幕优化</optimizesmallscreensSubsetName>
+    <animationsSubsetName>过渡动画</animationsSubsetName>
+    <helpSubsetName>帮助图标</helpSubsetName>
+    <colored>色彩</colored>
+    <subset.colorset>颜色方案</subset.colorset>
+    <subset.shader>电视效果</subset.shader>
+    <glowSubsetName>光晕选择</glowSubsetName>
+    <systemViewExInfos>改进的系统信息</systemViewExInfos>
+    <dateFormat>%d/%m/%Y</dateFormat>
+    <helpbuttons>按钮位置</helpbuttons>
+    <xboxbuttons>Xbox 按钮</xboxbuttons>
+    <psxbuttons>PS 按钮</psxbuttons>
+    <gamecarouseltype>图片来源</gamecarouseltype>
+    <gameBar>游戏信息栏</gameBar>
+    <scanlines>扫描线</scanlines>
+    <crt>CRT</crt>
+    <systembackground.miniconsole>迷你控制台</systembackground.miniconsole>
+    <systembackground.consoles>游戏机</systembackground.consoles>
+    <systembackground.carboncontrollers>游戏控制</systembackground.carboncontrollers>
+    <systembackground.carbonlegacy>旧控件</systembackground.carbonlegacy>
+    <systembackground.simple>简单</systembackground.simple>
+    <systembackground.randomvideo>随机视频</systembackground.randomvideo>
+    <systembackground.randomfanart>随机插图</systembackground.randomfanart>
+    <systembackground.randomimage>随机图像</systembackground.randomimage>
+    <systembackground.randombox>随机盒子</systembackground.randombox>
+    <systembackground.minirandomimage>随机小图像</systembackground.minirandomimage>
+    <systembackground.minirandombox>随机小盒子</systembackground.minirandombox>
+    <systembackground.minirandomvideo>随机小视频</systembackground.minirandomvideo>
+  </variables>
+</theme>
